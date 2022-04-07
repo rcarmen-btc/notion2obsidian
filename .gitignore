@@ -1,3 +1,7 @@
+#export src dirs
+export-content-here/
+obsidian/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

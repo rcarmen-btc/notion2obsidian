@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "f8d5fd044ad4bc71",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e6c37f675a4c20d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18d378ae571beb8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "45943df9ac3f3967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb31957ec421f47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4dc6833247fb344",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Create table",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e28dd340326a1d26",
+    "type": "split",
+    "children": [
+      {
+        "id": "3068338b01d7d6ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a99b734f1ff2a1b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b42b13f8cc5ea31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e6c37f675a4c20d",
+  "lastOpenFiles": [
+    "imhere/Skills/Skills tab/Responsive Web Design/Courses/Responsive Web Design Principles.md",
+    "imhere/Skills/Skills tab/Responsive Web Design/Courses/HTML5.md",
+    "imhere/Skills/Skills tab/Responsive Web Design/Courses/Courses.md",
+    "imhere/Skills/Skills tab/Responsive Web Design/Responsive Web Design.md",
+    "imhere/Skills/Skills tab/Python Piscine/Projects t/Projects t.md",
+    "imhere/Skills/Skills tab/Python Piscine/Python Piscine.md",
+    "imhere/Skills/Skills tab/Python Piscine/Projects t/Day 00.md",
+    "imhere/Skills/Skills tab/NumPy/NumPy.md",
+    "imhere/Skills/Skills tab/JavaScript Algorithms and Data Structures.md",
+    "imhere/Skills/Skills tab/Python Specialization.md"
+  ]
+}
